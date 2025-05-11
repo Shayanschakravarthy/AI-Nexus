@@ -169,7 +169,7 @@ To set up any of the projects, follow the steps below:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Hunterdii/AI-Nexus.git
+   git clone https://github.com/Shayanschakravarthy/AI-Nexus.git
    ```
 
 2. **Navigate to the Desired Project Directory:**
